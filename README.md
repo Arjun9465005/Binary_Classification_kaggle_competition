@@ -35,7 +35,7 @@ DataSet link- [kaggle competitions download -c playground-series-s4e7](https://w
 
 # Results of the competition 
 
-At last we use the kfold method which perform well and we got accuracy upto 0.89595 that helped me to hold 215 position on the kaggle leaderboard in Binary Classification competition
+At last we use the StratifiedKFold with Catboost method which perform well and we got accuracy upto 0.89595 that helped me to hold 215 position on the kaggle leaderboard in Binary Classification competition
 
 ![Binary_Classification Result1](https://github.com/user-attachments/assets/10709197-3006-427e-a727-5c7e2ae852c1)
 ![Binary_Classification Result2](https://github.com/user-attachments/assets/0eac7453-b536-4c09-b979-942ac0904f48)
