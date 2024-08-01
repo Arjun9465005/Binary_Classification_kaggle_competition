@@ -6,26 +6,34 @@ DataSet link- [kaggle competitions download -c playground-series-s4e7](https://w
 ![box_plot Binary Classi](https://github.com/user-attachments/assets/f4ecfd71-4deb-470c-a961-d5cb3b520cbd)
 
 #Histogram for the Age
+
 ![Histogram](https://github.com/user-attachments/assets/b2fb6837-250d-457e-bad6-143029770052)
 
 #Histogram for the Region_Code
+
 ![Histogram2](https://github.com/user-attachments/assets/087b0670-e8dc-40e7-bff1-0a731657150c)
 
 #Histogram for the Vehicle_Age
+
 ![hostogram3](https://github.com/user-attachments/assets/0619cb5d-381c-4a3a-ad29-a9c5bcc1c017)
 
 #Checking imbalance in Training data or respone(target)
+
 ![piechart](https://github.com/user-attachments/assets/32df7f13-e122-45a4-800e-b801a6ce77ee)
 
 #PCA
+
 ![PCA ](https://github.com/user-attachments/assets/91c93224-b61b-4197-8551-aa2a0cf44131)
 
 #Results of the catboost by using  Hyper parameteric tuning
+
 ![Results of catboost](https://github.com/user-attachments/assets/14b8abce-b89d-4210-bdce-9e13dff92a01)
 
 #Result of CNN Model
+
 ![Result of CNN](https://github.com/user-attachments/assets/03200ae5-28fa-475f-b757-50170a23de27)
 
 #Results of the competition
+
 ![Binary_Classification Result1](https://github.com/user-attachments/assets/10709197-3006-427e-a727-5c7e2ae852c1)
 ![Binary_Classification Result2](https://github.com/user-attachments/assets/0eac7453-b536-4c09-b979-942ac0904f48)
